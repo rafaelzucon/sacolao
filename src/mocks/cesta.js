@@ -9,37 +9,37 @@ import abobora from '../../assets/frutas/azeitona.png';
 
 const cesta = {
     topo: {
-        titulo: "Ervas frescas",
+        titulo: "Frescas",
     },
     detalhes: {
-        nome: "Cesta de Plantinhas",
+        nome: "Cesta de Frutas",
         logoFazenda: logo,
         nomeFazenda: "Native Farm",
-        descricao: "Purple Haze, lemon haze e varios produtos especialmente selecionados ",
-        preco: "A partir de R$ 65,00 / Grama",
+        descricao: "Produtos especialmente selecionados ",
+        preco: "A partir de R$ 5,00 / Kg",
         botao: "Comprar",
     },
     itens: {
         titulo: "Itens da cesta",
         lista: [
             {
-              nome: "lemon haze",
+              nome: "Jaca",
               imagem: tomate,
             },
             {
-              nome: "Afghani",
+              nome: "Uva",
               imagem: brocolis,
             },
             {
-              nome: "Jack Herer",
+              nome: "morango",
               imagem: batata,
             },
             {
-              nome: "Sour Diesel",
+              nome: "manga",
               imagem: pepino,
             },
             {
-              nome: "Purple Haze",
+              nome: "banana",
               imagem: abobora,
             }
           ]
