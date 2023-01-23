@@ -1,7 +1,7 @@
 import React from "react";
 import { Image, StyleSheet, Dimensions } from "react-native";
 import Texto from "../../../componentes/Texto";
-import topo from '../../../../assets/topo.jpg';
+import topo from '../../../../assets/topo.png';
 
 export default function Topo({ titulo }){
     return <>

@@ -1,11 +1,11 @@
 
 import logo from '../../assets/logo.png'
 
-import tomate from '../../assets/frutas/lemonhaze.png';
-import brocolis from '../../assets/frutas/Afghani.png';
-import batata from '../../assets/frutas/Jackherer.png';
-import pepino from '../../assets/frutas/SourDiesel.png';
-import abobora from '../../assets/frutas/PurpleHaze.png';
+import tomate from '../../assets/frutas/limao.png';
+import brocolis from '../../assets/frutas/pera.png';
+import batata from '../../assets/frutas/abacaxi.png';
+import pepino from '../../assets/frutas/tomate.png';
+import abobora from '../../assets/frutas/azeitona.png';
 
 const cesta = {
     topo: {
